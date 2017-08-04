@@ -1,0 +1,172 @@
+
+
+
+
+.glm:hover .invisible {
+   display: list-item;
+   position: absolute;
+   padding: 1%;
+   left: 0;
+   border: solid 2px black;
+   border-radius: 5px;
+   background-color: white;
+   text-align: center;
+}
+a {
+   display: inline;
+   top: 100%;
+}
+.invisible {
+   display: none;
+   list-style-type: none;
+}
+.online {
+   display: inline;
+}
+li {
+   list-style-type: none;
+}
+.glm {
+   position: relative;
+}
+body {
+   background-color: pink;
+   margin-top: 0;
+   margin-left: 10%;
+   margin-right: 10%; 
+}
+
+
+div {
+   background-color: white;
+   border: solid 1px white;
+   border-radius: 10px;
+}
+
+
+
+
+
+
+               
+               .madridik {
+                  border: none;
+                  justify-content: center;
+                  display: flex;
+               }
+               .flexitemtop {
+                  background-color: white;
+                  height: 50px;
+                  width: 260px;
+                  border: outset 1px gray;
+                  border-radius: 0;
+                  display: flex;
+               }
+               .madridik1 {
+                  border: none;
+                  flex-wrap: wrap;
+                  display: flex;
+                  margin: 0;
+                  justify-content: center;
+                  width: 265px;
+                  height: 100px;
+               }
+               .out {
+                  border: none;
+               }
+               .flex-item1 {
+                  width: 50px;
+                  align-items: center;
+                  justify-content: center;
+                  display: flex;
+                  background-color: silver;
+                  border: solid 1px gray;
+                  border-radius: 0;
+                  height: 100px;
+                  flex-wrap: wrap;
+               }
+               .flex-item2 {
+                  align-self: baseline;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  width: 100px;
+                  background-color: silver;
+                  border: solid 1px gray;
+                  border-radius: 0;
+                  height: 50px; 
+               }
+               .flex-item {
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  width: 50px;
+                  background-color: silver;
+                  border: solid 1px gray;
+                  border-radius: 0;
+                  height: 50px; 
+               }
+               .flex-item5 {
+                  align-self: flex-start;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  width: 50px;
+                  background-color: silver;
+                  border: solid 1px gray;
+                  border-radius: 0;
+                  height: 50px; 
+               }
+               .flex-item3 {
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  width: 50px;
+                  background-color: silver;
+                  border: solid 1px gray;
+                  border-radius: 0;
+                  height: 50px; 
+               }
+               .m1 { 
+               justify-content: center;
+                  border: none;
+                  align-items: center;
+                  height: 50px;
+                  display: flex;
+               }
+               .m { 
+               justify-content: center;
+                  border: none;
+                  height: 50px;
+                  align-items: flex-start;
+                  display: flex;
+               }
+
+
+
+
+
+
+
+.img {
+   float: left;
+   height: 50px;   
+   border: solid 5px white;
+}
+.tech {
+   text-indent: 5%;
+   padding-left: 30%;
+}
+.hrefs {
+   text-indent: 5%;
+   padding-right: 40%;
+}
+.foot {
+   padding-left: 40%;
+   padding-right: 40%;
+}
+
+adress {
+   justify-content: center;
+   display: flex;
+}
